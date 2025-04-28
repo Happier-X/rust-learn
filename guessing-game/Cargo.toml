@@ -1,0 +1,7 @@
+[package]
+name = "guessing-game" # 项目名
+version = "0.1.0" # 版本号
+edition = "2024" # 使用的Rust版本
+
+[dependencies]
+rand = "0.8.5" # 随机数生成库
